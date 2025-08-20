@@ -33,5 +33,5 @@ Automatic CSV updates
 Auto-filled employee form templates ready for printing
 
 🏃‍♂️‍➡️ To make it run
-steamlit run automation_script.py
+--- steamlit run automation_script.py
 
