@@ -22,7 +22,7 @@ pandas (for CSV handling)
 
 python-docx (for Word template automation)
 
-📌 Use Case
+📌 Use Case🏃‍♂️‍➡️
 
 HRs usually collect employee details on paper and later enter them into Excel. This tool automates that process by providing:
 
@@ -31,3 +31,7 @@ A simple web form for data entry
 Automatic CSV updates
 
 Auto-filled employee form templates ready for printing
+
+🏃‍♂️‍➡️ To make it run
+steamlit run automation_script.py
+
