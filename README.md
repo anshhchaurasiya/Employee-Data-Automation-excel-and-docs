@@ -37,3 +37,8 @@ HRs usually collect employee details on paper and later enter them into Excel. T
 ```bash
 streamlit run automation_script.py
 ```
+
+
+
+![WhatsApp Image 2025-08-22 at 00 08 28_0e338646](https://github.com/user-attachments/assets/38e05d23-7c8b-4224-ad8c-4babae53c928)
+
