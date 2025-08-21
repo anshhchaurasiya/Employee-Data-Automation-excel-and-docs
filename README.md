@@ -1,4 +1,4 @@
-HR Form Automation
+# HR Form Automation
 
 This project simplifies the HR data entry process by combining Streamlit forms, CSV storage, and Word document automation.
 
