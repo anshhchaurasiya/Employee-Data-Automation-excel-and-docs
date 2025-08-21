@@ -40,5 +40,5 @@ streamlit run automation_script.py
 
 
 
-![WhatsApp Image 2025-08-22 at 00 08 28_0e338646](https://github.com/user-attachments/assets/076f2b6c-9090-4554-83d9-83ef58a851d8)
+![WhatsApp Image 2025-08-22 at 00 11 25_6eca82ec](https://github.com/user-attachments/assets/a4c93e6d-d148-4a7c-98c8-65e906fa3004)
 
